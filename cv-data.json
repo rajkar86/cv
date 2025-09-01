@@ -1,0 +1,151 @@
+{
+  "personal": {
+    "name": "KARTHIKEYAN RAJENDRAN",
+    "email": "karthikeyan.rajendran@gmail.com",
+    "phone": "+1 609-613-2710",
+    "linkedin": "https://www.linkedin.com/in/karthikeyan-rajendran-56319639/",
+    "summary": "Passionate about statistical learning and software engineering"
+  },
+  "education": [
+    {
+      "degree": "PhD Dynamical Systems",
+      "institution": "Princeton University",
+      "details": [
+        "Chemical Engineering department with thesis in applied mathematics",
+        "Computationally implemented reduced descriptions of dynamical network models, thereby accelerating numerical simulations and performing useful system-level analysis.",
+        "First author of a book chapter.",
+        "Co-authored 8 papers in professional journals.",
+        "Google Scholar publication list below"
+      ],
+      "link": "https://goo.gl/soRHCf",
+      "location": "Princeton, NJ",
+      "startDate": "2008-09-01",
+      "endDate": "2013-07-31"
+    },
+    {
+      "degree": "Chemical Engineering - B.Tech & M.Tech",
+      "institution": "IIT Madras",
+      "details": ["Class Rank: 1 out of 50, GPA: 9.64/10"],
+      "location": "Chennai, Tamil Nadu, India",
+      "startDate": "2003-09-01",
+      "endDate": "2008-06-30"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Amazon",
+      "location": "New York, NY",
+      "details": [
+        "Built machine learning-based models to optimize rendering decisions (UX) on different parts of the retail site.",
+        "One of two main organizers of a 2-hour tutorial session on the above topic at the internal ML conference, AMLC 2023."
+      ],
+      "startDate": "2022-10-01"
+    },
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Meta",
+      "location": "San Francisco, CA",
+      "details": [
+        "Consulted on various ranking-related efforts involving Facebook Communities, auditing existing models and developing new ones in the process."
+      ],
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-30"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Amazon",
+      "location": "New York, NY",
+      "details": [
+        "Researched and built recommendation models and developed a service to improve the discoverability of digital educational resources within the retail site."
+      ],
+      "startDate": "2020-06-01",
+      "endDate": "2021-08-31"
+    },
+    {
+      "title": "Quantitative Researcher/Engineer",
+      "company": "Bloomberg",
+      "location": "New York, NY",
+      "details": [
+        "Researched and implemented statistical bond pricing models using empirical market data.",
+        "Developed and maintained parts of a distributed system to price municipal fixed-income securities.",
+        "Built and pioneered the use of interactive visualization tools for modeling and presentation in a cross-functional team. Also served as a bridge between quants, developers, and product owners."
+      ],
+      "startDate": "2013-09-01",
+      "endDate": "2020-05-31"
+    }
+  ],
+  "achievements": [
+    {
+      "date": "2016-03-15",
+      "title": "Prize: Glover Klingman Prize",
+      "details": [
+        "Second author of the paper that won the prize intended to recognize outstanding work in the general areas of network modeling, analysis, and implementation",
+        "The Glover-Klingman Prize is awarded annually for the best paper published in the Wiley journal Networks, as chosen by the journal’s The Editors-in-Chief, with assistance from members of the Editorial Board."
+      ],
+      "link": "https://cbe.princeton.edu/news/gounaris-08-rajendran-13-kevrekidis-and-floudas-share-2016-glover-klingman-prize"
+    },
+    {
+      "date": "2012-04-20",
+      "title": "Prize: Ray Grimm Memorial Prize",
+      "details": [
+        "The prize honors advanced graduate students who have demonstrated significant achievement in computational physics.",
+        "Recognized with the $4,000 prize, \"for his ingenious and innovative combination of modeling and scientific computing tools, from nonlinear dynamics, multiscale modeling, optimization and uncertainty quantification with ideas from graph theory towards the model reduction of complex evolving network dynamics.\""
+      ],
+      "link": "https://yannis-kevrekidis.scholar.princeton.edu/news/rajendran-gs4-receives-grimm-memorial-prize"
+    },
+    {
+      "date": "2008-07-01",
+      "title": "Fellowship: Gordon-Wu",
+      "details": [
+        "Awarded to the most outstanding incoming doctoral students in engineering."
+      ],
+      "link": "https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship"
+    },
+    {
+      "date": "2003-08-01",
+      "title": "State Rank 3",
+      "details": [
+        "Ranked #3 among more than 100,000 students in state engineering entrance exam"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "title": "Volunteer and Team Lead",
+      "organization": "New York Cares",
+      "location": "New York, NY",
+      "details": [
+        "Led projects ranging from education to food security."
+      ],
+      "startDate": "2013-09-01"
+    },
+    {
+      "title": "Hobbyist App Development",
+      "organization": "Personal Project",
+      "location": "",
+      "details": [
+        "Recreated NY Times Spelling Bee game. Google Play ID: com.kraj.spelling.bee",
+        "Learned to use Flutter, Dart and mobile app development."
+      ],
+      "link": "https://play.google.com/store/apps/details?id=com.kraj.spelling.bee&hl=en_US&pli=1",
+      "startDate": "2019-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Skills",
+      "skills": [
+        "statistical/predictive modeling",
+        "optimization",
+        "multivariate analysis",
+        "numerical methods",
+        "neural networks",
+        "large-scale distributed systems",
+        "linux",
+        "cloud computing",
+        "practical problem solving"
+      ]
+    }
+  ]
+}
